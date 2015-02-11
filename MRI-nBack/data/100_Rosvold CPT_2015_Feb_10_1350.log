@@ -1,0 +1,41 @@
+3.8392 	WARNING 	Movie2 stim could not be imported and won't be available
+14.8744 	INFO 	Loaded monitor calibration from ['2014_09_23 11:31']
+17.1414 	EXP 	Created window1 = Window(allowGUI=False, allowStencil=False, autoLog=True, bitsMode=UNKNOWN, blendMode='avg', color=array([-1., -1., -1.]), colorSpace='rgb', fullscr=UNKNOWN, gamma=None, lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor instance at 0x97acc88>, name='window1', pos=[0, 0], screen=0, size=array([1920, 1080]), stereo=False, units=u'norm', useFBO=True, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+17.1415 	EXP 	window1: recordFrameIntervals = False
+17.3069 	EXP 	window1: recordFrameIntervals = True
+17.4910 	DEBUG 	Screen (0) actual frame rate measured at 59.83
+17.4910 	EXP 	window1: recordFrameIntervals = False
+17.8094 	EXP 	Created text_15 = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='white', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.1, italic=False, name='text_15', opacity=1.0, ori=0, pos=array([ 0.,  0.]), rgb=array([ 255.,  255.,  255.]), text=unicode(...), units=u'norm', win=Window(...), wrapWidth=1)
+17.8167 	EXP 	Created text_14 = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='white', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.1, italic=False, name='text_14', opacity=1.0, ori=0, pos=array([ 0.,  0.]), rgb=array([ 255.,  255.,  255.]), text=u'+', units=u'norm', win=Window(...), wrapWidth=1)
+17.8442 	EXP 	Created Welcome = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='white', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.1, italic=False, name='Welcome', opacity=1.0, ori=0, pos=array([ 0.,  0.]), rgb=array([ 255.,  255.,  255.]), text=unicode(...), units=u'norm', win=Window(...), wrapWidth=1)
+18.0005 	EXP 	Created text_6 = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='white', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.1, italic=False, name='text_6', opacity=1.0, ori=0, pos=array([ 0.,  0.]), rgb=array([ 255.,  255.,  255.]), text=unicode(...), units=u'norm', win=Window(...), wrapWidth=1)
+18.0135 	EXP 	Created text_2 = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='white', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.1, italic=False, name='text_2', opacity=1.0, ori=0, pos=array([ 0.,  0.]), rgb=array([ 255.,  255.,  255.]), text=u'Waiting for trigger pulse...', units=u'norm', win=Window(...), wrapWidth=1)
+18.4033 	EXP 	Created image = ImageStim(autoLog=True, color=array([ 1.,  1.,  1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, flipHoriz=False, flipVert=False, image=u'N-back Instructions.jpg', interpolate=True, mask=None, maskParams=None, name='image', opacity=1.0, ori=0.0, pos=array([ 0.,  0.]), size=array([ 1.125,  1.5  ]), texRes=128, units=u'norm', win=Window(...))
+18.4095 	EXP 	Created text_7 = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='white', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.1, italic=False, name='text_7', opacity=1.0, ori=0, pos=array([ 0.,  0.]), rgb=array([ 255.,  255.,  255.]), text=u'+', units=u'norm', win=Window(...), wrapWidth=1)
+18.4371 	EXP 	Created text_8 = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color=u'white', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font=u'Arial', fontFiles=[], height=0.5, italic=False, name='text_8', opacity=1.0, ori=0, pos=array([ 0.,  0.]), rgb=array([ 255.,  255.,  255.]), text=u'default text', units=u'norm', win=Window(...), wrapWidth=1)
+18.4826 	EXP 	Created text_12 = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='white', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.1, italic=False, name='text_12', opacity=1.0, ori=0, pos=array([ 0.,  0.]), rgb=array([ 255.,  255.,  255.]), text=unicode(...), units=u'norm', win=Window(...), wrapWidth=1)
+18.5209 	EXP 	Created text_9 = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='white', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.1, italic=False, name='text_9', opacity=1.0, ori=0, pos=array([ 0.,  0.]), rgb=array([ 255.,  255.,  255.]), text=unicode(...), units=u'norm', win=Window(...), wrapWidth=1)
+18.5772 	EXP 	text_15: autoDraw = True
+19.0791 	DATA 	Keypress: return
+19.0954 	EXP 	text_15: autoDraw = False
+19.0954 	EXP 	text_14: autoDraw = True
+20.5836 	DATA 	Keypress: space
+20.5999 	EXP 	text_14: autoDraw = False
+20.5999 	EXP 	Welcome: autoDraw = True
+20.9513 	DATA 	Keypress: space
+20.9676 	EXP 	Welcome: autoDraw = False
+20.9676 	EXP 	text_6: autoDraw = True
+21.5030 	DATA 	Keypress: space
+21.5193 	EXP 	text_6: autoDraw = False
+21.5193 	EXP 	text_2: autoDraw = True
+22.3554 	DATA 	Keypress: num_subtract
+22.6062 	DATA 	Keypress: num_multiply
+22.6226 	EXP 	text_2: autoDraw = False
+22.6226 	EXP 	image: autoDraw = True
+22.9079 	EXP 	Imported stimOrder.csv as conditions, 10 conditions, 2 params
+22.9084 	EXP 	Created sequence: sequential, trialTypes=10, nReps=1, seed=None
+22.9250 	EXP 	New trial (rep=0, index=0): {'letters': u'C', 'correctButton': 0}
+22.9401 	EXP 	image: autoDraw = False
+22.9401 	EXP 	image: autoDraw = False
+22.9401 	EXP 	text_7: autoDraw = True
+24.9355 	ERROR 	AllowedKeys variable `correctButton` is not string- or list-like.

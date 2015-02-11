@@ -1,0 +1,189 @@
+4.0558 	WARNING 	Movie2 stim could not be imported and won't be available
+12.3323 	INFO 	Loaded monitor calibration from ['2014_09_23 11:31']
+13.7812 	EXP 	Created window1 = Window(allowGUI=False, allowStencil=False, autoLog=True, bitsMode=UNKNOWN, blendMode='avg', color=array([-1., -1., -1.]), colorSpace='rgb', fullscr=UNKNOWN, gamma=None, lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor instance at 0x96acc60>, name='window1', pos=[0, 0], screen=0, size=array([1920, 1080]), stereo=False, units=u'norm', useFBO=True, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+13.7812 	EXP 	window1: recordFrameIntervals = False
+13.9467 	EXP 	window1: recordFrameIntervals = True
+14.1308 	DEBUG 	Screen (0) actual frame rate measured at 59.83
+14.1309 	EXP 	window1: recordFrameIntervals = False
+14.3919 	EXP 	Created text_15 = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='white', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.1, italic=False, name='text_15', opacity=1.0, ori=0, pos=array([ 0.,  0.]), rgb=array([ 255.,  255.,  255.]), text=unicode(...), units=u'norm', win=Window(...), wrapWidth=1)
+14.3987 	EXP 	Created text_14 = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='white', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.1, italic=False, name='text_14', opacity=1.0, ori=0, pos=array([ 0.,  0.]), rgb=array([ 255.,  255.,  255.]), text=u'+', units=u'norm', win=Window(...), wrapWidth=1)
+14.4258 	EXP 	Created Welcome = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='white', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.1, italic=False, name='Welcome', opacity=1.0, ori=0, pos=array([ 0.,  0.]), rgb=array([ 255.,  255.,  255.]), text=unicode(...), units=u'norm', win=Window(...), wrapWidth=1)
+14.5891 	EXP 	Created text_6 = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='white', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.1, italic=False, name='text_6', opacity=1.0, ori=0, pos=array([ 0.,  0.]), rgb=array([ 255.,  255.,  255.]), text=unicode(...), units=u'norm', win=Window(...), wrapWidth=1)
+14.6016 	EXP 	Created text_2 = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='white', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.1, italic=False, name='text_2', opacity=1.0, ori=0, pos=array([ 0.,  0.]), rgb=array([ 255.,  255.,  255.]), text=u'Waiting for trigger pulse...', units=u'norm', win=Window(...), wrapWidth=1)
+14.6598 	EXP 	Created image = ImageStim(autoLog=True, color=array([ 1.,  1.,  1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, flipHoriz=False, flipVert=False, image=u'N-back Instructions.jpg', interpolate=True, mask=None, maskParams=None, name='image', opacity=1.0, ori=0.0, pos=array([ 0.,  0.]), size=array([ 1.125,  1.5  ]), texRes=128, units=u'norm', win=Window(...))
+14.6653 	EXP 	Created text_7 = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='white', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.1, italic=False, name='text_7', opacity=1.0, ori=0, pos=array([ 0.,  0.]), rgb=array([ 255.,  255.,  255.]), text=u'+', units=u'norm', win=Window(...), wrapWidth=1)
+14.6879 	EXP 	Created text_8 = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color=u'white', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font=u'Arial', fontFiles=[], height=0.5, italic=False, name='text_8', opacity=1.0, ori=0, pos=array([ 0.,  0.]), rgb=array([ 255.,  255.,  255.]), text=u'default text', units=u'norm', win=Window(...), wrapWidth=1)
+14.7264 	EXP 	Created text_12 = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='white', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.1, italic=False, name='text_12', opacity=1.0, ori=0, pos=array([ 0.,  0.]), rgb=array([ 255.,  255.,  255.]), text=unicode(...), units=u'norm', win=Window(...), wrapWidth=1)
+14.7600 	EXP 	Created text_9 = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='white', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.1, italic=False, name='text_9', opacity=1.0, ori=0, pos=array([ 0.,  0.]), rgb=array([ 255.,  255.,  255.]), text=unicode(...), units=u'norm', win=Window(...), wrapWidth=1)
+14.7824 	EXP 	text_15: autoDraw = True
+15.2510 	DATA 	Keypress: return
+15.2673 	EXP 	text_15: autoDraw = False
+15.2673 	EXP 	text_14: autoDraw = True
+27.2198 	DATA 	Keypress: space
+27.2361 	EXP 	text_14: autoDraw = False
+27.2361 	EXP 	Welcome: autoDraw = True
+29.0584 	DATA 	Keypress: num_multiply
+29.0748 	EXP 	Welcome: autoDraw = False
+29.0748 	EXP 	text_6: autoDraw = True
+29.3260 	DATA 	Keypress: num_multiply
+29.3423 	EXP 	text_6: autoDraw = False
+29.3423 	EXP 	text_2: autoDraw = True
+29.5601 	DATA 	Keypress: num_multiply
+29.5763 	EXP 	text_2: autoDraw = False
+29.5763 	EXP 	image: autoDraw = True
+29.8650 	EXP 	Imported stimOrder.csv as conditions, 100 conditions, 2 params
+29.8662 	EXP 	Created sequence: sequential, trialTypes=100, nReps=10, seed=None
+29.8671 	EXP 	New trial (rep=0, index=0): {'letters': u'G', 'correctButton': 0}
+29.8772 	EXP 	image: autoDraw = False
+29.8772 	EXP 	image: autoDraw = False
+29.8772 	EXP 	text_7: autoDraw = True
+31.9166 	EXP 	text_7: autoDraw = False
+31.9166 	EXP 	text_7: autoDraw = False
+31.9166 	EXP 	text_8: text = u'G'
+31.9166 	EXP 	text_8: autoDraw = True
+32.9056 	EXP 	New trial (rep=0, index=1): {'letters': u'K', 'correctButton': 0}
+32.9195 	EXP 	text_8: autoDraw = False
+32.9195 	EXP 	text_8: autoDraw = False
+32.9195 	EXP 	text_7: autoDraw = True
+34.9255 	EXP 	text_7: autoDraw = False
+34.9255 	EXP 	text_7: autoDraw = False
+34.9255 	EXP 	text_8: text = u'K'
+34.9255 	EXP 	text_8: autoDraw = True
+35.9133 	EXP 	New trial (rep=0, index=2): {'letters': u'V', 'correctButton': -1}
+35.9284 	EXP 	text_8: autoDraw = False
+35.9284 	EXP 	text_8: autoDraw = False
+35.9284 	EXP 	text_7: autoDraw = True
+37.9344 	EXP 	text_7: autoDraw = False
+37.9344 	EXP 	text_7: autoDraw = False
+37.9344 	EXP 	text_8: text = u'V'
+37.9344 	EXP 	text_8: autoDraw = True
+38.2357 	DATA 	Keypress: 1
+38.9225 	EXP 	New trial (rep=0, index=3): {'letters': u'K', 'correctButton': 1}
+38.9373 	EXP 	text_8: autoDraw = False
+38.9373 	EXP 	text_8: autoDraw = False
+38.9373 	EXP 	text_7: autoDraw = True
+40.9433 	EXP 	text_7: autoDraw = False
+40.9433 	EXP 	text_7: autoDraw = False
+40.9433 	EXP 	text_8: text = u'K'
+40.9433 	EXP 	text_8: autoDraw = True
+41.2948 	DATA 	Keypress: 1
+41.9313 	EXP 	New trial (rep=0, index=4): {'letters': u'V', 'correctButton': 1}
+41.9463 	EXP 	text_8: autoDraw = False
+41.9463 	EXP 	text_8: autoDraw = False
+41.9463 	EXP 	text_7: autoDraw = True
+43.9522 	EXP 	text_7: autoDraw = False
+43.9522 	EXP 	text_7: autoDraw = False
+43.9522 	EXP 	text_8: text = u'V'
+43.9522 	EXP 	text_8: autoDraw = True
+44.5545 	DATA 	Keypress: 1
+44.9402 	EXP 	New trial (rep=0, index=5): {'letters': u'A', 'correctButton': -1}
+44.9552 	EXP 	text_8: autoDraw = False
+44.9552 	EXP 	text_8: autoDraw = False
+44.9552 	EXP 	text_7: autoDraw = True
+46.9611 	EXP 	text_7: autoDraw = False
+46.9611 	EXP 	text_7: autoDraw = False
+46.9611 	EXP 	text_8: text = u'A'
+46.9611 	EXP 	text_8: autoDraw = True
+47.9489 	EXP 	New trial (rep=0, index=6): {'letters': u'V', 'correctButton': 1}
+47.9641 	EXP 	text_8: autoDraw = False
+47.9641 	EXP 	text_8: autoDraw = False
+47.9641 	EXP 	text_7: autoDraw = True
+48.4494 	DATA 	Keypress: 1
+49.9700 	EXP 	text_7: autoDraw = False
+49.9700 	EXP 	text_7: autoDraw = False
+49.9700 	EXP 	text_8: text = u'V'
+49.9700 	EXP 	text_8: autoDraw = True
+50.4552 	DATA 	Keypress: 1
+50.9581 	EXP 	New trial (rep=0, index=7): {'letters': u'A', 'correctButton': 1}
+50.9730 	EXP 	text_8: autoDraw = False
+50.9730 	EXP 	text_8: autoDraw = False
+50.9730 	EXP 	text_7: autoDraw = True
+52.9790 	EXP 	text_7: autoDraw = False
+52.9790 	EXP 	text_7: autoDraw = False
+52.9790 	EXP 	text_8: text = u'A'
+52.9790 	EXP 	text_8: autoDraw = True
+53.8486 	DATA 	Keypress: 1
+53.9670 	EXP 	New trial (rep=0, index=8): {'letters': u'N', 'correctButton': -1}
+53.9819 	EXP 	text_8: autoDraw = False
+53.9819 	EXP 	text_8: autoDraw = False
+53.9819 	EXP 	text_7: autoDraw = True
+55.9879 	EXP 	text_7: autoDraw = False
+55.9879 	EXP 	text_7: autoDraw = False
+55.9879 	EXP 	text_8: text = u'N'
+55.9879 	EXP 	text_8: autoDraw = True
+56.5734 	DATA 	Keypress: 1
+56.9760 	EXP 	New trial (rep=0, index=9): {'letters': u'A', 'correctButton': 1}
+56.9909 	EXP 	text_8: autoDraw = False
+56.9909 	EXP 	text_8: autoDraw = False
+56.9909 	EXP 	text_7: autoDraw = True
+58.9968 	EXP 	text_7: autoDraw = False
+58.9968 	EXP 	text_7: autoDraw = False
+58.9968 	EXP 	text_8: text = u'A'
+58.9968 	EXP 	text_8: autoDraw = True
+59.9846 	EXP 	New trial (rep=0, index=10): {'letters': u'E', 'correctButton': -1}
+59.9998 	EXP 	text_8: autoDraw = False
+59.9998 	EXP 	text_8: autoDraw = False
+59.9998 	EXP 	text_7: autoDraw = True
+62.0057 	EXP 	text_7: autoDraw = False
+62.0057 	EXP 	text_7: autoDraw = False
+62.0057 	EXP 	text_8: text = u'E'
+62.0057 	EXP 	text_8: autoDraw = True
+62.9936 	EXP 	New trial (rep=0, index=11): {'letters': u'A', 'correctButton': 1}
+63.0087 	EXP 	text_8: autoDraw = False
+63.0087 	EXP 	text_8: autoDraw = False
+63.0087 	EXP 	text_7: autoDraw = True
+63.0927 	DATA 	Keypress: 1
+65.0146 	EXP 	text_7: autoDraw = False
+65.0146 	EXP 	text_7: autoDraw = False
+65.0146 	EXP 	text_8: text = u'A'
+65.0146 	EXP 	text_8: autoDraw = True
+66.0026 	EXP 	New trial (rep=0, index=12): {'letters': u'K', 'correctButton': -1}
+66.0176 	EXP 	text_8: autoDraw = False
+66.0176 	EXP 	text_8: autoDraw = False
+66.0176 	EXP 	text_7: autoDraw = True
+68.0235 	EXP 	text_7: autoDraw = False
+68.0235 	EXP 	text_7: autoDraw = False
+68.0235 	EXP 	text_8: text = u'K'
+68.0235 	EXP 	text_8: autoDraw = True
+69.0114 	EXP 	New trial (rep=0, index=13): {'letters': u'A', 'correctButton': 1}
+69.0265 	EXP 	text_8: autoDraw = False
+69.0265 	EXP 	text_8: autoDraw = False
+69.0265 	EXP 	text_7: autoDraw = True
+71.0325 	EXP 	text_7: autoDraw = False
+71.0325 	EXP 	text_7: autoDraw = False
+71.0325 	EXP 	text_8: text = u'A'
+71.0325 	EXP 	text_8: autoDraw = True
+72.0203 	EXP 	New trial (rep=0, index=14): {'letters': u'K', 'correctButton': 1}
+72.0354 	EXP 	text_8: autoDraw = False
+72.0354 	EXP 	text_8: autoDraw = False
+72.0354 	EXP 	text_7: autoDraw = True
+74.0414 	EXP 	text_7: autoDraw = False
+74.0414 	EXP 	text_7: autoDraw = False
+74.0414 	EXP 	text_8: text = u'K'
+74.0414 	EXP 	text_8: autoDraw = True
+75.0292 	EXP 	New trial (rep=0, index=15): {'letters': u'A', 'correctButton': 1}
+75.0444 	EXP 	text_8: autoDraw = False
+75.0444 	EXP 	text_8: autoDraw = False
+75.0444 	EXP 	text_7: autoDraw = True
+77.0503 	EXP 	text_7: autoDraw = False
+77.0503 	EXP 	text_7: autoDraw = False
+77.0503 	EXP 	text_8: text = u'A'
+77.0503 	EXP 	text_8: autoDraw = True
+78.0382 	EXP 	New trial (rep=0, index=16): {'letters': u'Q', 'correctButton': -1}
+78.0533 	EXP 	text_8: autoDraw = False
+78.0533 	EXP 	text_8: autoDraw = False
+78.0533 	EXP 	text_7: autoDraw = True
+80.0759 	EXP 	text_7: autoDraw = False
+80.0759 	EXP 	text_7: autoDraw = False
+80.0759 	EXP 	text_8: text = u'Q'
+80.0759 	EXP 	text_8: autoDraw = True
+81.0637 	EXP 	New trial (rep=0, index=17): {'letters': u'W', 'correctButton': -1}
+81.0789 	EXP 	text_8: autoDraw = False
+81.0789 	EXP 	text_8: autoDraw = False
+81.0789 	EXP 	text_7: autoDraw = True
+82.0488 	DATA 	Keypress: escape
+83.0848 	EXP 	text_7: autoDraw = False
+83.0848 	EXP 	text_7: autoDraw = False
+83.0848 	EXP 	text_8: text = u'W'
+83.0848 	EXP 	text_8: autoDraw = True
+83.8208 	DATA 	Keypress: escape
